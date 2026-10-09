@@ -66,3 +66,18 @@ Os resultados documentados correspondem aos comportamentos observados durante a 
 ## Autoria
 
 Projeto desenvolvido como entrega do desafio técnico de QA da Verzel.
+
+
+## Uso de Inteligência Artificial
+
+Utilizei o ChatGPT como ferramenta de apoio durante o desenvolvimento deste desafio, principalmente para:
+
+- Apoiar a estruturação e organização dos cenários de teste.
+- Auxiliar na elaboração dos cenários em Gherkin.
+- Melhorar a clareza e a padronização dos registros de bugs e dos resultados de execução.
+- Apoiar a criação dos testes automatizados com Playwright e a resolução de erros de configuração e execução.
+- Orientar a organização da documentação e a publicação do projeto no GitHub.
+
+A IA foi utilizada como apoio, enquanto a execução dos testes, a observação dos comportamentos da aplicação e a identificação e validação dos defeitos foram realizadas durante a prática do desafio.
+
+**Ferramenta utilizada:** ChatGPT — https://chatgpt.com/
